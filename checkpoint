@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hrithik/Desktop/sih-face/model.tflearn"
+all_model_checkpoint_paths: "/home/hrithik/Desktop/sih-face/model.tflearn"
